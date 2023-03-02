@@ -1,21 +1,21 @@
 +++
-title = "Slow Ride"
+title = "Passeio calmo"
 chapter = true
 weight = 2
 pre = "<b>2. </b>"
 +++
 
-### Slow Ride
+### Passeio calmo
 
 # Issue:
 
 ![Slow Ride Tweet](/images/clem.png)
 
-# Challenge
+# Desafio
 
-Discover why some customers were experiencing a cart that wouldn't load or loaded slowly yesterday.
-Report your findings in the form provided by your Relic host.
+Descubra por que alguns clientes estavam enfrentando um carrinho que não carregava ou carregava lentamente ontem.
+Relate suas descobertas no formulário fornecido pelo seu host Relic.
 
-# Hint
+# Dica
 
-Use Distributed Tracing or application logs in context
+Use Distributed Trace ou Logs de aplicativos no contexto

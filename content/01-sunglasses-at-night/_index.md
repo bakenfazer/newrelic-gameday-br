@@ -1,20 +1,20 @@
 +++
-title = "I Wear My Sunglasses At Night"
+title = "Eu uso os meus óculos de Sol à noite"
 chapter = true
 weight = 1
 pre = "<b>1. </b>"
 +++
 
-### I Wear My Sunglasses At Night
+### Eu uso os meus óculos de Sol à noite
 
 # Issue:
 
 ![sunglasses slack](/images/sunglasses-slack.png)
 
-# Challenge
+# Desafio
 
-The team thinks they've seen this before with an error called "HardToSeeError", but they need more information. Using New Relic's Distributed Tracing feature, report the error.group.message for this error so that you can quickly and easily confirm the root cause.
+A equipe acha que já viu isso antes com um erro chamado "HardToSeeError", mas precisa de mais informações. Usando o recurso de rastreamento distribuído da New Relic, informe o error.group.message para esse erro para que você possa confirmar rápida e facilmente a causa principal.
 
-# Free Hint
+# Dica grátis
 
-Navigate to the APM view for the "gcp-boutique-frontend" service, seems to be happening on /cart POST requests.
+Navegue até a exibição APM para o serviço "gcp-boutique-frontend", parece estar acontecendo em /cart solicitações POST.

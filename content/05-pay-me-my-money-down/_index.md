@@ -1,20 +1,22 @@
 +++
-title = "Pay Me My Money Down"
+title = "Pague-me meu dinheiro para baixo"
 chapter = true
 weight = 5
 pre = "<b>5. </b>"
 +++
 
-### Pay Me My Money Down
+### Pague-me meu dinheiro para baixo
 
 # Issue:
 
 ![Bill Lumbergh Slack](/images/bill-lumbergh.png)
 
-# Challenge
+# Desafio
 
-Looks like the payment-service is throwing the error. Find and report the error message.
+Parece que o serviço de pagamento está apresentando o erro. Localize e relate a mensagem de erro.
 
-# Free Hint
+# Dica grátis
 
 It's more than just the UNKNOWN error. Report the other specific error message that's more relevant!
+
+É mais do que apenas o erro DESCONHECIDO. Relate a outra mensagem de erro específica que seja mais relevante!

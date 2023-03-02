@@ -1,11 +1,11 @@
 +++
-title = "I Don't Want to Miss a Thing"
+title = "Não quero perder nada"
 chapter = true
 weight = 10
 pre = "<b>10. </b>"
 +++
 
-### I Don't Want to Miss a Thing
+### Não quero perder nada
 
 # Issue:
 
@@ -13,8 +13,8 @@ pre = "<b>10. </b>"
 
 # Challenge
 
-The Java microservice *adservice* isn't showing up in New Relic as an APM application.  Find out why, and report your findings and proposed solution to the form provided by your Relic host!
+O microsserviço Java *adservice* não está aparecendo no New Relic como um aplicativo APM. Descubra o porquê e relate suas descobertas e solução proposta no formulário fornecido pelo seu host Relic!
 
-# Free Hint
+# Dica grátis
 
-Take a peek at the Logs. 
+Dê uma olhada nos Logs.

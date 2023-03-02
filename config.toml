@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'New Relic - Partner Gameday!'
+languageCode = 'pt-br'
+title = 'New Relic - Parceiro Gameday!'
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn-master"
 

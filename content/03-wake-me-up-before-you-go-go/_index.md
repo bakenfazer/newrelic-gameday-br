@@ -1,21 +1,21 @@
 +++
-title = "Wake Me Up Before You Go"
+title = "Me acorde antes de sair"
 chapter = true
 weight = 3
 pre = "<b>3. </b>"
 +++
 
-### Wake Me Up Before You Go Go
+### Me acorde antes de sair
 
 # Issue:
 
 ![CX Tweet](/images/sleepy-slack.png)
 
 
-# Challenge
+# Desafio
 
-It seems like there may be some high-level metrics that we can share with the team to confirm their suspicion of a slow site. Find the First Input Delay (FID) for the overall site, and also find the LCP for the tanktops (product ID: 66VCHSJNUP) page.
+Parece que pode haver algumas métricas de alto nível que podemos compartilhar com a equipe para confirmar a suspeita de um site lento. Encontre o First Input Delay (FID) para o site geral e também encontre o LCP para a página tanktops (ID do produto: 66VCHSJNUP).
 
-# Free Hint
+# Dica grátis
 
 Browse for it.

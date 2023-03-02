@@ -1,11 +1,11 @@
 +++
-title = "I'm Not Wrong, You're Wrong"
+title = "Eu não estou errado, você está errado"
 chapter = true
 weight = 9
 pre = "<b>9. </b>"
 +++
 
-### Something's broke, you fix it
+### Algo está quebrado, você conserta
 
 # Issue:
 
@@ -14,10 +14,15 @@ pre = "<b>9. </b>"
 Customers are reporting you've stopped making recommendations! How will they know what to buy!
 DevOps has identified the Recommendation Service is being regularly killed in Kubernetes with a status of Out of Memory (OOM). They want you to investigate.
 
-# Challenge
+Os clientes estão relatando que você parou de fazer recomendações! Como eles saberão o que comprar!
+O DevOps identificou que o serviço de recomendação está sendo eliminado regularmente no Kubernetes com um status de: Out of Memory (OOM). Eles querem que você investigue.
+
+# Desafio
 
 Starting with the Infrastructure UI, identify the processes causing the pod to run out of memory.
 
-# Free Hint
+Começando com a Infrastructure UI, identifique os processos que estão fazendo com que o pod fique sem memória.
 
-Under most circumstances the rule of thumb is a single process per container.
+# Dica grátis
+
+Na maioria das circunstâncias, a regra geral é um único processo por contêiner.
