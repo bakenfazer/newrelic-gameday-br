@@ -13,10 +13,8 @@ pre = "<b>5. </b>"
 
 # Desafio
 
-Parece que o serviço de pagamento está apresentando o erro. Localize e relate a mensagem de erro.
+Parece que o 'payment service' está apresentando o erro. Localize e relate a mensagem de erro.
 
 # Dica grátis
 
-It's more than just the UNKNOWN error. Report the other specific error message that's more relevant!
-
-É mais do que apenas o erro DESCONHECIDO. Relate a outra mensagem de erro específica que seja mais relevante!
+É mais do que apenas: 'UNKNOWN error'. Relate a outra mensagem de erro específica que seja mais relevante!

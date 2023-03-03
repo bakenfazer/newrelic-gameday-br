@@ -17,4 +17,4 @@ A equipe acha que já viu isso antes com um erro chamado "HardToSeeError", mas p
 
 # Dica grátis
 
-Navegue até a exibição APM para o serviço "gcp-boutique-frontend", parece estar acontecendo em /cart solicitações POST.
+Navegue até a exibição APM para o serviço 'gcp boutique frontend', parece estar acontecendo em /cart solicitações POST.

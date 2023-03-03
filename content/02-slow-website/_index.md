@@ -18,4 +18,4 @@ Relate suas descobertas no formulário fornecido pelo seu host Relic.
 
 # Dica
 
-Use Distributed Trace ou Logs de aplicativos no contexto
+Usar Distributed Trace ou Logs de aplicativos no contexto
