@@ -13,7 +13,7 @@ pre = "<b>1. </b>"
 
 # Desafio
 
-A equipe acha que já viu isso antes com um erro chamado "HardToSeeError", mas precisa de mais informações. Usando o recurso de rastreamento distribuído da New Relic, informe o error.group.message para esse erro para que você possa confirmar rápida e facilmente a causa principal.
+A equipe acha que já viu isso antes com um erro chamado "HardToSeeError", mas precisa de mais informações. Usando o recurso de Distributed Tracing da New Relic, informe o error.group.message referente a este erro para que você possa confirmar de forma rápida e fácil a causa principal.
 
 # Dica grátis
 
